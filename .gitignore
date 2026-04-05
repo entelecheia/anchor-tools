@@ -50,3 +50,6 @@ $RECYCLE.BIN/
 *.cert
 secrets/
 credentials/
+
+.omc/
+.omx/
