@@ -15,41 +15,35 @@ yarn-error.log*
 .pnpm-debug.log*
 package-lock.json
 yarn.lock
-
 # Environment
 .env
 .env.local
 .env.*.local
 *.env
-
 # Editor
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
-
 # Build output
 dist/
 build/
 out/
-
 # Logs
 logs/
 *.log
-
 # OS temp files
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
-
 # Secrets / credentials
 *.pem
 *.key
 *.cert
 secrets/
 credentials/
-
 .omc/
 .omx/
+||||||| parent of ec3c7f8 (chore: ignore .omc state files)
