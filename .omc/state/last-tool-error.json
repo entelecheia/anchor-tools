@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cd /Users/yj.lee/ai-workspace/work/projects/rise/anchor-tools && git pull 2>&1\",\"description\":\"Update anchor-tools submodule pointer\"}",
+  "error": "Exit code 1\nFrom github.com:entelecheia/anchor-tools\n   9d9e34d..ae48244  main       -> origin/main\nerror: The following untracked working tree files would be overwritten by merge:\n\t.omc/state/hud-state.json\n\t.omc/state/hud-stdin-cache.json\nPlease move or remove them before you merge.\nAborting\nUpdating 9d9e34d..ae48244",
+  "timestamp": "2026-04-05T00:55:58.623Z",
+  "retry_count": 1
+}
