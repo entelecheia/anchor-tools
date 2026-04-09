@@ -85,6 +85,13 @@
 - 법적 분쟁 중인 사건의 상세 내용
 - 타 기관의 비공개 정보
 
+### 성과 외부 공유 금지
+
+내부 AI 에이전트·성과물을 타 대학·기관에 제공하지 않는다 (총장 방침).
+- anchor-tools, anchor-agent 등 내부 도구 소스 외부 배포 금지
+- AI 생성 사업 성과물·분석 결과 타 기관 제공 금지
+- 문의 시 운영지원본부 경유 → 부단장 판단
+
 ### 출력물 관리
 
 - AI 생성 결과물은 반드시 사람이 검토 후 발송·제출
@@ -135,6 +142,15 @@ YYMMDD-type-description-version.ext
 - 개인정보 처리
 - 미공개 내부 정보 외부 서비스에 입력
 - AI 결과물을 검토 없이 그대로 공문 발송
+
+---
+
+## 7-1. 오피스 도구
+
+- **기본**: MS Office 365 (Word, Excel, PowerPoint, Teams, Outlook)
+- **보조**: Google Workspace (Drive, Docs — 외부 협업 시)
+- **한글**: HWP/HWPX (교육부 공문 필수, anchor-hwp 스킬 사용)
+- **메신저**: Slack 또는 Flow (선정 후 확정, messenger/ 가이드 참조)
 
 ---
 
