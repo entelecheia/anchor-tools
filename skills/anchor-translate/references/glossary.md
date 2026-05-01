@@ -18,7 +18,7 @@
 | 지역혁신중심 대학지원체계 | Regional Innovation-centered University Support System | |
 | 앵커 | Anchor | 2026년 이후 공식 명칭 |
 | 5극3특 | 5-Pole 3-Special | 초광역 체제 |
-| ADCL | Aerospace & Defense Career Ladder | 4-4-3 모델 |
+| A2CL | Aerospace & AI Career Ladder | 4-4-3 모델 |
 
 ---
 
@@ -98,7 +98,7 @@
 |------|-------------------|-----------------|
 | RISE | 지역혁신중심 대학지원체계 | Regional Innovation-centered University Support System |
 | CHU | 제주한라대학교 | Cheju Halla University |
-| ADCL | 항공우주·방산 커리어 래더 | Aerospace & Defense Career Ladder |
+| A2CL | 항공우주·AI 커리어 래더 | Aerospace & AI Career Ladder |
 | KPI | 핵심성과지표 | Key Performance Indicator |
 | MOU | 업무협약 | Memorandum of Understanding |
 | AI | 인공지능 | Artificial Intelligence |

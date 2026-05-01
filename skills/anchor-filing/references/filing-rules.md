@@ -68,7 +68,7 @@
 |--------|----------|
 | STAI, 컨퍼런스, 포럼 | `events/YYYY/` |
 | 워크숍, 세미나, 교육 | `events/YYYY/workshops/` |
-| ADCL, 항공우주 | `5g3t-adcl/` |
+| A2CL, 항공우주 | `5g3t-a2cl/` |
 
 ## 파일 유형별 보조 규칙
 

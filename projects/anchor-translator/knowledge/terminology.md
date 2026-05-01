@@ -16,7 +16,7 @@
 | RISE 사업 / 앵커 사업 | RISE Project / Anchor Project | - |
 | 지역혁신중심 대학지원체계 | Regional Innovation-centered University Support System | RISE |
 | 5극3특 | 5-Pole 3-Special Regional System | - |
-| ADCL | Aerospace & Defense Career Ladder | ADCL |
+| A2CL | Aerospace & AI Career Ladder | A2CL |
 | 교육부 | Ministry of Education | MOE |
 | 제주특별자치도 | Jeju Special Self-Governing Province | - |
 | 자연어연구센터 | Natural Language Research Center | - |

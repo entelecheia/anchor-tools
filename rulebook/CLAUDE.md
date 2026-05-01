@@ -52,7 +52,7 @@
 | 앵커 사업 | Anchor Project (구 RISE) |
 | 런케이션 | Learncation (Learning + Vacation) |
 | 5극3특 | 5-Pole 3-Special 초광역 체제 |
-| ADCL | Aerospace & Defense Career Ladder |
+| A2CL | Aerospace & AI Career Ladder |
 | 핵심인재양성본부 | Core Talent Development Division |
 | 해외인재본부 | International Talent Division |
 | 런케이션본부 | Learncation Division |
